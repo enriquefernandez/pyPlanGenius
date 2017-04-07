@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+python pyplangenius.py hammerworld-domain.pddl hammerworld-problem-nothreat.pddl --no-poplan
